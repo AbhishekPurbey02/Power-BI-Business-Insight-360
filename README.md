@@ -90,8 +90,20 @@ The **AtliQ Business Insights 360** dashboard delivers transformative insights a
 ![Dashboard Screenshot 1](https://github.com/AbhishekPurbey02/Power-BI-Business-Insight-360/blob/main/Landing%20Page.png)
 *Landing Page Overview*
 
-![Dashboard Screenshot 2](https://www.example.com/dashboard2.jpg) 
+![Dashboard Screenshot 2](https://github.com/AbhishekPurbey02/Power-BI-Business-Insight-360/blob/main/Finance%20View.png) 
+*Finance Dashboard Overview*
+
+![Dashboard Screenshot 2](https://github.com/AbhishekPurbey02/Power-BI-Business-Insight-360/blob/main/Sales%20View.png) 
 *Sales Performance Metrics*
+
+![Dashboard Screenshot 2](https://github.com/AbhishekPurbey02/Power-BI-Business-Insight-360/blob/main/Marketting%20View.png) 
+*Marketting Dashboard Overview*
+
+![Dashboard Screenshot 2](https://github.com/AbhishekPurbey02/Power-BI-Business-Insight-360/blob/main/SupplyChain%20View.png) 
+*Supply Chain Dashboard Overview*
+
+![Dashboard Screenshot 2](https://github.com/AbhishekPurbey02/Power-BI-Business-Insight-360/blob/main/Executive%20View.png) 
+*Executive Dashboard Overview*
 
 ## Conclusion
 
