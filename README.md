@@ -1,7 +1,7 @@
 
 # AtliQ Business Insights 360 
 
-![AtliQ Business Insights- Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTcyYjA2YTUtNjkyMS00ZDNiLWE0MjItOGEyNDFkYTRiMTBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**[AtliQ Business Insights- Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTcyYjA2YTUtNjkyMS00ZDNiLWE0MjItOGEyNDFkYTRiMTBiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 **AtliQ Business Insights 360** is a cutting-edge data analytics project that revolutionizes AtliQ Hardware's business operations. Leveraging Power BI, this project provides actionable insights across Finance, Sales, Supply Chain, Executive Management, and Marketing, empowering AtliQ to drive data-driven decision-making and achieve unparalleled business success.
 
