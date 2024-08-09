@@ -87,8 +87,8 @@ The **AtliQ Business Insights 360** dashboard delivers transformative insights a
 
 ## Visual Highlights
 
-![Dashboard Screenshot 1](https://www.example.com/dashboard1.jpg)
-*Finance Dashboard Overview*
+![Dashboard Screenshot 1](https://github.com/AbhishekPurbey02/Power-BI-Business-Insight-360/blob/main/Landing%20Page.png)
+*Landing Page Overview*
 
 ![Dashboard Screenshot 2](https://www.example.com/dashboard2.jpg) 
 *Sales Performance Metrics*
